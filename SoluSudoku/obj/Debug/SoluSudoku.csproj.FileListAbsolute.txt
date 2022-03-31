@@ -1,0 +1,8 @@
+C:\Users\Alejandro Rios\Documents\GitHub\soluSudoku\SoluSudoku\bin\Debug\SoluSudoku.exe.config
+C:\Users\Alejandro Rios\Documents\GitHub\soluSudoku\SoluSudoku\bin\Debug\SoluSudoku.exe
+C:\Users\Alejandro Rios\Documents\GitHub\soluSudoku\SoluSudoku\bin\Debug\SoluSudoku.pdb
+C:\Users\Alejandro Rios\Documents\GitHub\soluSudoku\SoluSudoku\obj\Debug\SoluSudoku.csproj.AssemblyReference.cache
+C:\Users\Alejandro Rios\Documents\GitHub\soluSudoku\SoluSudoku\obj\Debug\SoluSudoku.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alejandro Rios\Documents\GitHub\soluSudoku\SoluSudoku\obj\Debug\SoluSudoku.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro Rios\Documents\GitHub\soluSudoku\SoluSudoku\obj\Debug\SoluSudoku.exe
+C:\Users\Alejandro Rios\Documents\GitHub\soluSudoku\SoluSudoku\obj\Debug\SoluSudoku.pdb
